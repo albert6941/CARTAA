@@ -88,7 +88,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  font-family: "Sacramento", cursive;
+  font-family: 'Poppins', sans-serif; /* Cambio de Sacramento a Poppins */
   background-color: #f1e3d3;
   overflow: hidden;
 }
