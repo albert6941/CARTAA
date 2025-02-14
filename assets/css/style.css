@@ -34,7 +34,7 @@
   #card p {
     padding-left: 0 !important; /* Eliminar el relleno a la izquierda en dispositivos móviles */
     padding-right: 0 !important; /* Eliminar el relleno a la derecha en dispositivos móviles */
-    font-size: 1.3em !important;
+    font-size: .5em !important;
   }
 
   .valentines-day {
@@ -53,7 +53,7 @@
 }
 
 #card p {
-  font-size: .88em;
+  font-size: .75em;
   text-align: justify;
   padding-left: 30px; /* Espacio en blanco a la izquierda */
   padding-right: 30px; /* Espacio en blanco a la derecha */
@@ -88,7 +88,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  font-family: 'Poppins', sans-serif; /* Cambio de Sacramento a Poppins */
+  font-family: "Poppins", cursive;
   background-color: #f1e3d3;
   overflow: hidden;
 }
@@ -245,7 +245,7 @@ body {
   }
 
   .text {
-    font-size: .85em; /* Ajuste del tamaño de fuente */
+    font-size: .6em; /* Ajuste del tamaño de fuente */
   }
 }
 
